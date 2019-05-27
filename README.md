@@ -10,6 +10,6 @@ C-blog开发基于beego框架，前端模板下载自www.layui.com
 
 目前博客并不完善, 功能还可能有调整
 
-我的项目的地址 https://github.com//C-blog 
+我的项目的地址 https://github.com/yigejidan/C-blog 
 
            
